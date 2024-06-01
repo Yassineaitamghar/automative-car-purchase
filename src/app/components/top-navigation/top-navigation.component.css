@@ -1,0 +1,15 @@
+.top-right {
+  position: absolute;
+  top: 0.33cm;
+  right: 3.4cm;
+}
+.text {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color: #f2eef7;
+}
+h1 {
+  text-shadow: 2px 2px 5px #c0b1f4;
+}
